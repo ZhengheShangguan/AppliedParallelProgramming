@@ -1,1 +1,2 @@
-# AppliedParallelProgramming_ECE408
+# AppliedParallelProgramming
+Some basic Labs for Applied Parallel Programming. 
