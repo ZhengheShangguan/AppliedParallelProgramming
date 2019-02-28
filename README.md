@@ -1,2 +1,2 @@
-# AppliedParallelProgramming
-Some basic Labs for Applied Parallel Programming. 
+# ParallelProgramming Labs
+Some basic Labs for Parallel Programming. 
